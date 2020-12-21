@@ -1,5 +1,5 @@
 # MNIST-Handwritten-Digit-Recognition-with-CNN-in-Python-using-Keras
-This project implements and explains Python code to detect handwritten digits (MNIST dataset) with a CNN using Keras.  
+This project implements and explains Python code to recognize handwritten digits (MNIST dataset) with a CNN using Keras.  
 
 #### Objective
 - Understand how CNN helps by implementing first with MLP and then moving onto CNN
