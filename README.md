@@ -20,14 +20,14 @@ This is a Multi-Class Classification problem (10 classes)
 #### Key Results
 **MLP based solution**
 - Input (784x1 column vector) -> 1 hidden layer (512 neurons, relu) -> Output (10 classes, softmax)
-- Number of paramters = **407050**
+- Number of parameters = **407050**
 - Training Accuracy = **~98.9%**
 - Test Accuracy = **~98.0%**
 
 
 **CNN based solution**
 - Input (28x28x1 matrix) -> Conv(32 3x3 filters, relu) -> Maxpool(2x2) -> Conv(64 3x3 filters, relu) -> Maxpool(2x2) -> Conv(64 3x3 filters, relu) -> Flatten to a column vector for FCN -> FCN (64 outputs, relu) -> FCN (10 outputs, softmax)
-- Number of paramters = **93322**
+- Number of parameters = **93322**
 - Training Accuracy = **~99.4%**
 - Test Accuracy = **~99.3%**
 
