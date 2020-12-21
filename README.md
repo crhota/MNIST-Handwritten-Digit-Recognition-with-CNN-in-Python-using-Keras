@@ -20,5 +20,5 @@ This is a Multi-Class Classification problem (10 classes)
 #### Key Results
 MLP based solution
 - Input (784x1 coumn vector) -> 1 hidden layer (512 neurons, relu) -> Output (10 classes, softmax)
-- Training Accuracy = ~98.9%
-- Test Accuracy = ~97.9%
+- Training Accuracy = **~98.9%**
+- Test Accuracy = **~97.9%**
